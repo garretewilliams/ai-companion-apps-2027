@@ -1,0 +1,7 @@
+Memory layer,What it holds,Examples
+Character card,"Identity, backstory, example messages","Every app; Nomi Backstory, Kindroid backstory"
+Pinned notes,Facts that must never drop out,"Character.AI pins, Janitor AI Chat Memory, SpicyChat pins"
+Auto-extracted facts,Short facts about the user and characters,"Character.AI Facts, Replika Memory, SpicyChat Semantic Memory"
+Rolling summary,"The story so far, compressed","Kindroid Cascaded Memory, Janitor AI summaries"
+Retrieved long-term memory,Older moments pulled in by relevance,"Kindroid long-term memory, ChatGPT chat history"
+Structured overview,"People, places, goals and relationships",Nomi Mind Map
