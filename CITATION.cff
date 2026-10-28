@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Where AI Companion and Character Apps Are Going in 2027: Memory, Safety, Pricing and Platform Risk"
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "chatbrat.ai"
+    orcid: "https://orcid.org/0009-0008-9464-6561"
+date-released: "2026-10-27"
+version: "1.0.0"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23716008"
+    description: "Zenodo record (report PDF and data)"
+  - type: url
+    value: "https://chatbrat.ai/research/where-ai-companion-apps-are-going-2027"
+    description: "Full report on chatbrat.ai"
+license: CC-BY-4.0
+repository-code: "https://github.com/garretewilliams/ai-companion-apps-2027"
+url: "https://chatbrat.ai/research/where-ai-companion-apps-are-going-2027"
+doi: "10.5281/zenodo.23716008"
+abstract: >-
+  A data report on memory, safety, pricing and platform risk across 10 AI companion and character chat apps (Character.AI, Chai, PolyBuzz, Janitor AI, Replika, Nomi, Talkie, Kindroid, SpicyChat and ChatBrat AI), built from October 2026 filings, help centers and public trackers. Includes comparison tables as CSV and five charts.
+keywords:
+  - "AI companion apps"
+  - "AI character chat"
+  - "Character.AI bankruptcy"
+  - "AI companion memory"
+  - "age verification"
+  - "app store"
+  - "AI roleplay"
+  - "ChatBrat AI"
